@@ -1,5 +1,4 @@
 import satData from "./satData";
-import styling from "./styling.css";
 
 const Buttons = ({ filterByType, setSat, displaySats }) => {
 	return (
